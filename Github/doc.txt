@@ -13,6 +13,9 @@
 // Commit
     git commit -m "status"
 
+// Add những thứ thay đổi.
+    git add .
+
 // Push code của Branch lên Github
     git push origin "name_branch"
 
