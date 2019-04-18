@@ -1,0 +1,20 @@
+// Tạo Branch mới
+    git checkout -b "name_branch"
+
+// Xác định vị trí Branch hiện tại
+    git branch
+
+// Chuyển sang 1 Branch khác
+    git checkout "name_branch"
+
+// Xem thay đổi của Branch
+    git status
+
+// Commit
+    git commit-am "status"
+
+// Push code của Branch lên Github
+    git push origin "name_branch"
+
+// Merge code từ Branch khác vào Branch hiện tại
+    git merge "name_branch"
