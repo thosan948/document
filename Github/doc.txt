@@ -11,7 +11,7 @@
     git status
 
 // Commit
-    git commit-am "status"
+    git commit -m "status"
 
 // Push code của Branch lên Github
     git push origin "name_branch"
