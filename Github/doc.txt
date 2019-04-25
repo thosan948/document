@@ -1,5 +1,11 @@
+// Clone source từ Github
+    git clone "link_source"
+    
 // Tạo Branch mới
     git checkout -b "name_branch"
+
+// Clear file
+    git checkout
 
 // Xác định vị trí Branch hiện tại
     git branch
@@ -12,7 +18,7 @@
 
 // Add những thứ thay đổi.
     git add .
-    
+
 // Commit
     git commit -m "status"
 
