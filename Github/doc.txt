@@ -1,3 +1,5 @@
+https://rogerdudler.github.io/git-guide/
+
 // Clone source từ Github
     git clone "link_source"
     
@@ -27,3 +29,9 @@
 
 // Merge code từ Branch khác vào Branch hiện tại
     git merge "name_branch"
+
+// Clean Fonder
+    git clean -fd
+
+// Pull code về
+    git pull        -- sau khi pull (:wq)

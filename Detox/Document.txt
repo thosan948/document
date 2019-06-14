@@ -1,5 +1,0 @@
-iOS: detox build -c ios.sim.debug
-    detox test -c ios.sim.debug (—reuse)
-Android:
-    detox build -c android.emu.debug
-    detox test -c android.emu.debug (—reuse)
