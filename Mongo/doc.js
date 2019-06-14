@@ -11,4 +11,4 @@ db.registerService.insert({
 
 
 // Update in MongoDB
-db.getCollection('service').update({'text.en': 'Housekeeping'}, {$set: {requireTaskerVerssion: '2.10.0'}})
+db.getCollection('service').update({'text.en': 'Housekeeping'}, {$set: {requireTaskerVersion: '2.10.0'}})
