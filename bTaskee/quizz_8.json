@@ -158,13 +158,13 @@
     {
       "id": "13",
       "type": "MULTI_CHOICES",
-      "question": "Trước khi rửa chén, dọn bếp người giúp việc nên làm gì?",
+      "question": "Nếu đã hoàn thành công việc cho khách, cuối giờ khách hàng yêu cầu làm thêm, bạn sẽ xử lý như thế nào? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [3,4],
       "choices": [
-        "Cố gắng làm hết sau đó yêu cầu KH thêm tiền vì làm lố giờ",
-        "Cố gắng làm hết để KH vui lòng và đặt lại dịch vụ",
-        "Từ chối thẳng KH vì bây giờ đã hết giờ",
-        "Hỏi về cv mà KH cần làm thêm, gọi ngay về công ty để nhờ hỗ trợ",
+        "Cố gắng làm hết sau đó yêu cầu khách hàng thêm tiền vì làm lố giờ",
+        "Cố gắng làm hết để khách hàng vui lòng và đặt lại dịch vụ",
+        "Từ chối thẳng với khách hàng vì bây giờ đã hết giờ",
+        "Hỏi về công việc mà khách hàng cần làm thêm, gọi ngay về công ty để nhờ hỗ trợ",
         "Từ chối khéo nếu không thể làm thêm cho khách"
       ]
     },
