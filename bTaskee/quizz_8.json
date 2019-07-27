@@ -1,0 +1,184 @@
+{
+  "id": "8",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra tổng quát",
+  "scoreRate": 80,
+  "nextLesson": null,
+  "isFinal": true,
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_7.json",
+  "componentQuizzIds": ["0", "1", "2", "3", "4", "5", "6", "7"],
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn dẹp phòng khách, người giúp việc cần làm những gì?",
+      "rightAnswer": [0],
+      "choices": [
+        "Gom rác, lau dọn tủ, bàn ghế và các đồ vật từ trên xuống dưới, chú ý nóc và gầm bàn, ghế và gầm tủ và cuối cùng là sắp xếp lại đồ đạc vào vị trí cũ.",
+        "Lập tức quét nhà, vừa quét vừa gom rác làm từ đầu phòng đến cuối phòng, không cần để ý tới gầm bàn ghế và góc nhà",
+        "Thu gom rác, dồn đồ đạc vào một chỗ và lau dọn phòng và không cần sắp xếp lại đồ đạc vào vị trí cũ"
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Để đảm bảo chất lượng đồ ủi, người giúp việc cần kiểm tra những gì?",
+      "rightAnswer": [1],
+      "choices": [
+        "Không cần kiểm tra gì cả, cứ ủi đồ như bình thường thôi",
+        "Kiểm tra vệ sinh bàn ủi, kiểm tra nhiệt độ bàn ủi đảm bảo phù hợp với đồ cần ủi.",
+        "Kiểm tra bàn ủi"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn nhà việc đầu tiên phải làm là gì?",
+      "rightAnswer": [1],
+      "choices": [
+        "Quét và lau sàn nhà",
+        "Phủi bụi thảm và mang đi phơi để tránh dơ thảm trong quá trình dọn dẹp",
+        "Lau bụi bàn ghế"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "ONE_CHOICE",
+      "question": "Đang trong quá trình dọn dẹp, thấy đồ của khách hàng đang nằm trong góc nhà, CTV nên làm gì?",
+      "rightAnswer": [3],
+      "choices": [
+        "Nếu thấy đồ đó sử dụng được thì bỏ túi mang về vì có lẽ khách không sử dụng nên bỏ đó",
+        "Cầm lên và đưa trả khách nói mình thấy trong góc nhà",
+        "Để im đó vì sợ làm ơn mất oán",
+        "Để nguyên vị trí, tìm khách hàng và báo có đồ vật đang nằm trong góc nhà",
+        "Để nguyên vị trí, cuối giờ xin khách hàng món đó, nếu cho thì lấy, không cho thì trả lại"
+      ]
+      
+    },
+    {
+      "id": "4",
+      "type": "ONE_CHOICE",
+      "question": "Quy tắc chung dọn dẹp nhà là gì?",
+      "rightAnswer": [2],
+      "choices": [
+        "Từ trên xuống dưới, từ ngoài vào trong, nơi sạch trước nơi bẩn sau",
+        "Từ dưới lên trên, từ trong ra ngoài, nơi sạch trước nơi bẩn sau",
+        "Từ trên xuống dưới từ trong ra ngoài làm đến đâu gọn sạch đến đó theo hình thức cuốn chiếu"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi tiến hành giặt quần áo, người giúp việc cần làm gì đầu tiên?",
+      "rightAnswer": [0],
+      "choices": [
+        "Phân loại quần áo trắng, quần áo màu đậm, quần áo màu nhạt để tránh bị lem màu khi giặt",
+        "Giặt luôn không cần làm gì cả"
+      ]
+    },
+    {
+      "id": "6",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn dẹp nhà cửa, khu vực nào là nơi người giúp việc sẽ thực hiện vệ sinh sau cùng?",
+      "rightAnswer": [1],
+      "choices": [
+        "Nhà bếp vì là nơi nhiều đồ nhất",
+        "Nhà vệ sinh vì là nơi dùng để sử dụng và vệ sinh các công cụ vệ sinh cần thiết cho các công việc tiếp theo",
+        "Phòng ngủ vì là nơi cần làm sạch nhất"
+      ]
+    },
+    {
+      "id": "7",
+      "type": "MULTI_CHOICES",
+      "question": "Nếu gặp khách nước ngoài, mà cần giao tiếp với khách, bạn sẽ làm gì? (có thể chọn nhiều đáp án)",
+      "rightAnswer": [0,3],
+      "choices": [
+        "Sử dụng google dịch hoặc các trang để dịch",
+        "Dùng tay để diễn tả, nếu khách hàng không hiểu thì cố gắng kiếm việc làm cho xong rồi về",
+        "Hạn chế nhận những công việc của khách nước ngoài",
+        "Tự trang bị thêm tiếng anh để giao tiếp với khách hàng",
+        "Gọi tổng đài xin hủy việc vì không biết giao tiếp"
+      ]
+    },
+    {
+      "id": "8",
+      "type": "ONE_CHOICE",
+      "question": "Đối với sàn bằng gỗ người giúp việc sẽ lau như thế nào?",
+      "rightAnswer": [1],
+      "choices": [
+        "Lau bằng khăn ướt",
+        "Lau bằng khăn ướt vắt thật khô",
+        "Lau bằng khăn khô vì sẽ hư gỗ của nhà khách"
+      ]
+    },
+    {
+      "id": "9",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn toilet người giúp việc nên làm gì đầu tiên?",
+      "rightAnswer": [2],
+      "choices": [
+        "Loại bỏ rác, tóc ở miệng cống thoát và bỏ vào thùng rác",
+        "Lau chùi bồn rửa mặt, bồn cầu, bồn tắm…",
+        "Cho Vim vệ sinh vào bồn cầu để ngâm"
+      ]
+    },
+    {
+      "id": "10",
+      "type": "ONE_CHOICE",
+      "question": "Khi lau cửa kính tại phòng ngủ (hay phòng vệ sinh), để đảm bảo sạch sẽ và gọn gàng, không ảnh hưởng tới các khu vực làm việc khác, người giúp việc cần thực hiện như thế nào?",
+      "rightAnswer": [2],
+      "choices": [
+        "Dùng khăn lau khô để lau hết các bụi bẩn trên mặt kính",
+        "Xịt nước lên trên bề mặt kính, sau đó dùng khăn mềm hoặc các công cụ gạt kính để lau và dùng khăn khô để lau khô mặt kính",
+        "Dùng dung dịch lau kính xịt lên bề mặt kính, tiếp theo dùng khăn mềm hoặc các công cụ gạt kính để làm sạch và lau khô"
+      ]
+    },
+    {
+      "id": "11",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi lau dọn phòng ngủ, người giúp việc cần làm gì?",
+      "rightAnswer": [0],
+      "choices": [
+        "Hỏi khách xem có cần thay ga giường, gối không? Sau đó phủi bụi và làm giường trước rồi mới lau bụi bàn ghế, giường và quét, lau sàn",
+        "Lau bàn ghế, lau sàn rồi mới làm giường, không cần hỏi khách",
+        "Chỉ cần lau sàn và bàn ghế thôi, không cần làm giường"
+      ]
+    },
+    {
+      "id": "12",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi rửa chén, dọn bếp người giúp việc nên làm gì?",
+      "rightAnswer": [0],
+      "choices": [
+        "Sắp xếp các dụng cụ trên bếp gọn gàng, bỏ chén dĩa và ly tách dơ vào bồn rửa ngâm trong 5 phút bằng nước thường hoặc nước ấm để giảm độ bám của chất bẩn, đầu mỡ…",
+        "Lau chùi các dụng cụ trên bếp trước (lò vi sóng, lò nướng, bếp…) sau đó đến mặt bếp",
+        "Lau chùi các vật dụng trong bếp (tủ lạnh, bàn ghế, tủ kệ…)"
+      ]
+    },
+    {
+      "id": "13",
+      "type": "MULTI_CHOICES",
+      "question": "Trước khi rửa chén, dọn bếp người giúp việc nên làm gì?",
+      "rightAnswer": [3,4],
+      "choices": [
+        "Cố gắng làm hết sau đó yêu cầu KH thêm tiền vì làm lố giờ",
+        "Cố gắng làm hết để KH vui lòng và đặt lại dịch vụ",
+        "Từ chối thẳng KH vì bây giờ đã hết giờ",
+        "Hỏi về cv mà KH cần làm thêm, gọi ngay về công ty để nhờ hỗ trợ",
+        "Từ chối khéo nếu không thể làm thêm cho khách"
+      ]
+    },
+    {
+      "id": "14",
+      "type": "ONE_CHOICE",
+      "question": "Hoàn thành xong công việc mà vẫn còn dư 30 phút, bạn sẽ làm gì?",
+      "rightAnswer": [2],
+      "choices": [
+        "Vì đã hoàn thành xong nên tranh thủ nhận tiền và ra về",
+        "Tự tìm thêm việc để làm đủ giờ cho khách",
+        "Báo với khách đã xong việc và nhờ khách hướng dẫn tiếp",
+        "Cứ làm từ từ vì dư nhiều thời gian"
+      ]
+    }
+  ]
+}
