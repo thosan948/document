@@ -5,6 +5,19 @@
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lessons.json",
     "rateScore": 80,
     "version": "2",
+    "service": [
+      "Cleaning","Deep Cleaning"
+    ],
+    "numberQuizz": 35
+  },  {
+    "id": "1",
+    "title": "Chương 1: Kiến thức cơ bản, Housekeeping",
+    "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lessons.json",
+    "rateScore": 80,
+    "version": "",
+    "service": [
+      "Housekeeping"
+    ],
     "numberQuizz": 35
   }
 ]
