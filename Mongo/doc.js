@@ -210,7 +210,15 @@ if (data.detailHostel) {
 // Post to Slack
 // “SLACK_POST”: {
 //   “API_URL”: “https://slack.com/api/chat.postMessage“,
-//   “TOKEN”: “xoxp-637815462612-626894492435-640175725383-48375364060308f3f61843e2d2f135e9",
-//   “SLACK_CHANNEL”: “mobile-app”
+//   “TOKEN”: “xoxp-637815462612-686728549252-726583600423-05b23757b641cb2624efc13d230834ac",
+//   “SLACK_CHANNEL”: “random”
 // },
 // https://slacktest-1jq2217.slack.com/messages/CJESZ4LTU/details/
+    
+// https://testapi.io/api/2ducanhpham/api/v1/history/list
+// https://testapi.io/api/2ducanhpham/api/v1/history/detail
+
+// appId: '',  // key 1ac4b6b2980fb63d30d9
+// senderId: '', // key 772707461974
+
+// curl -#L https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip | bsdtar -xf- -C ./ios/Frameworks; #download the FBSDK
