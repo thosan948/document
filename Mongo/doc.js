@@ -222,3 +222,21 @@ if (data.detailHostel) {
 // senderId: '', // key 772707461974
 
 // curl -#L https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip | bsdtar -xf- -C ./ios/Frameworks; #download the FBSDK
+
+
+// cd "$BUILD_DIR/ios/Frameworks/zpdk_v4_19_20/ZPDK-iOS/WithoutBitCode"
+// rm -rf __MACOSX && yes | cp -r ./zpdk.framework ../../../../Frameworks/zalo
+
+// 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
+
+// rm -rf node_modules/ && npm install
+// aKR5nCB32BLvC4uD7
+
+// senderId: 27308274380
+// FCM Key: AAAABluzMsw:APA91bGW9l4AcnKpvwFe7s86TSxVmNk-BpXOigdOsyBZ5l6sD3FMk_ZoD1L52LDmTiYEdJZxO56sUwb_c9BIH5EMa7s7ey3JrsTy0F4bJQL51td0b6zsYJ4bB0lX1__wgN3-FLNI2KxX
+
+// CleverTap API Key: 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
+// y6FX9YKpHubmKAfG6
+
+// tk: vanbtaskee
+// pas  bTaskee$347%
