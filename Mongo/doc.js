@@ -220,6 +220,11 @@ if (data.detailHostel) {
 
 // appId: '',  // key 1ac4b6b2980fb63d30d9
 // senderId: '', // key 772707461974
+// source ~/.bash_profile \\ ~/.zshrc
+// nvm ls-remote
+// chsh -s /bin/bash
+// nvm alias default 6.11.5
+// vGb2jv-LvRyxHyW6z1v1
 
 // curl -#L https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip | bsdtar -xf- -C ./ios/Frameworks; #download the FBSDK
 
@@ -231,6 +236,7 @@ if (data.detailHostel) {
 
 // rm -rf node_modules/ && npm install
 // aKR5nCB32BLvC4uD7
+// srjrgR4Wrknu9pzDW
 
 // senderId: 27308274380
 // FCM Key: AAAABluzMsw:APA91bGW9l4AcnKpvwFe7s86TSxVmNk-BpXOigdOsyBZ5l6sD3FMk_ZoD1L52LDmTiYEdJZxO56sUwb_c9BIH5EMa7s7ey3JrsTy0F4bJQL51td0b6zsYJ4bB0lX1__wgN3-FLNI2KxX
@@ -240,3 +246,27 @@ if (data.detailHostel) {
 
 // tk: vanbtaskee
 // pas  bTaskee$347%
+
+// export NVM_DIR="$HOME/.nvm"
+// [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+// export ANDROID_HOME=/Users/nguyentoan/Library/Android/sdk
+// export ANDROID_SDK_ROOT=$ANDROID_HOME
+// export ANDROID_AVD_HOME=/Users/nguyentoan/.android/avd
+// export PATH=$PATH:$ANDROID_HOME/emulator
+// export PATH=$PATH:$ANDROID_HOME/tools
+// export PATH=$PATH:$ANDROID_HOME/tools/bin
+// export PATH=$PATH:$ANDROID_HOME/platform-tools
+// export AVARIABLE=example
+// export HOME=/Users/nguyentoan
+// export GOPATH=$HOME/go
+// export PATH=$PATH:/$GOPATH/bin
+// export GO111MODULE=auto
+// # Git branch in prompt.
+// parse_git_branch() {
+//     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ \1/'
+// }
+// export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
+
+// export NVM_DIR="$HOME/.nvm"
+// [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+// [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This load$
